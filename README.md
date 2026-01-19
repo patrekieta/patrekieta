@@ -36,11 +36,11 @@ Recently completed my **MS-DS** at the University of Colorado, Boulder. Educatio
 ## 🎓 Education & Certifications
 
 - **M.S. in Data Science** - University of Colorado Boulder 2025
-- Coursework includes: Machine learning, neural networks, causal inference, precision medicine analytics
-
+  - Coursework includes: Machine learning, neural networks, causal inference, precision medicine analytics
+\
 - **B.S. in Biology** - Lafayette College 2020
-- Courswork includes: Ecology, genetics, environmental science, evolution, and more. 
-- Research focus: Entomology. Specifically, studying the spotted lanternfly (*Lycorma delicatula*)
+  - Courswork includes: Ecology, genetics, environmental science, evolution, and more. 
+  - Research focus: Entomology. Specifically, studying the spotted lanternfly (*Lycorma delicatula*)
 
 ---
 
