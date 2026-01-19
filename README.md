@@ -1,4 +1,3 @@
-<!--
 # Hi, I'm Patrick Rekieta 👋
 
 **Data Analyst / Scientist** focused on modernizing the data process for public health
@@ -60,5 +59,3 @@ Recently completed my **MS-DS** at the University of Colorado, Boulder. Educatio
 - **GitHub:** You're already here! Feel free to explore my repositories.
 
 ---
-
--->
