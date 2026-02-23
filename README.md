@@ -1,8 +1,8 @@
-# Hi, I'm Patrick Rekieta 👋
+# Hi, I'm Patrick Rekieta
 
 **Data Analyst / Scientist** focused on modernizing the data process for public health
 
-📍 Minnesota, USA | 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-rekieta/)
+Minnesota, USA | 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-rekieta/)
 
 ---
 ## About Me
@@ -13,7 +13,7 @@ Recently completed my **MS-DS** at the University of Colorado, Boulder. Educatio
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages & Frameworks**
 - R (Shiny, tidyverse, echarts4r, ggplot, and more)
@@ -33,7 +33,7 @@ Recently completed my **MS-DS** at the University of Colorado, Boulder. Educatio
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 - **M.S. in Data Science** - University of Colorado Boulder 2025
   - Coursework includes: Machine learning, neural networks, causal inference, precision medicine analytics <br>
@@ -43,7 +43,7 @@ Recently completed my **MS-DS** at the University of Colorado, Boulder. Educatio
 
 ---
 
-## 🔬 Current Interests
+## Current Interests
 
 - Improving public health data visualization techniques
 - Applying machine learning to public health surveillance
@@ -51,7 +51,7 @@ Recently completed my **MS-DS** at the University of Colorado, Boulder. Educatio
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - **LinkedIn:** [patrick-rekieta](https://www.linkedin.com/in/patrick-rekieta/)
 - **Email** Patrick.Rekieta@gmail.com
